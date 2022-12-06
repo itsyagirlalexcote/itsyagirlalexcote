@@ -1,6 +1,6 @@
 - 👋 Bonjour/Hello, I’m Alexandra or @itsyagirlalexcote !
 - 👀 I’m interested in all things involving outdoor activities, sports, arts, and projects coming to life. 
-- 🌱 I’m currently learning Java Script and React.
+- 🌱 I’m currently learning Java Script and React. 
 - 💞️ I’m looking to collaborate on... Anything! I love learning and new opportunities!
 - 📫 How to reach me: Email: alexcotelahue@gmail.com or LinkedIn: (https://www.linkedin.com/in/alexandra-cote-lahue/) 
 
